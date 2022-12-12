@@ -1,4 +1,4 @@
-# Data-230-Data-Visualization-
+# Visual Analysis on IPL dataset using Tableau-
 IPL Data Analysis using Tableau
 - Teams with most wins in IPL
 - Teams with most win average in IPL
